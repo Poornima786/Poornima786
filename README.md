@@ -1,4 +1,4 @@
-#💫 Hi 👋, I'm Poornima Srivastava
+<h1 align="left">💫 Hi 👋, I'm Poornima Srivastava</h1>  
 
 **Aspiring Software Engineer || Cyber Security Enthusiast || Problem Solver**
 
