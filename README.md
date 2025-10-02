@@ -1,7 +1,9 @@
-💫 Hi 👋, I'm Poornima Srivastava
+#💫 Hi 👋, I'm Poornima Srivastava
 
-Aspiring Software Engineer || Cyber Security Enthusiast || Problem Solver
+**Aspiring Software Engineer || Cyber Security Enthusiast || Problem Solver**
+
 📍 Actively seeking opportunities in SDE & Cyber Security roles
+
 📧 Email Me: poornimasrivstava@gmail.com
 
 🔭 I’m currently working on:
