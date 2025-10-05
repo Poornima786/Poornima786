@@ -21,8 +21,6 @@ Exploring real-world applications of cryptography, blockchain, and secure commun
 💬 Ask me about:
 C++, Python, DSA, Cyber Security concepts and system design.
 
-📫 How to reach me:
-poornimasrivstava@gmail.com
 
 ⚡ Fun fact:
 I’ve solved 600+ coding problems on LeetCode/GFG — debugging feels like solving detective puzzles 🕵️‍♀️✨.
